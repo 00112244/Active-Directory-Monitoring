@@ -33,8 +33,8 @@ This repository contains a collection of practical projects focused on monitorin
 * Security-focused dashboards showing failed logons, account lockouts, and privilege escalations.
 * Real-time notifications via Grafana alerts for critical AD events.
 
-**[View Project]**
+**[View Project](https://github.com/00112244/Active-Directory-Monitoring/blob/main/Active-Directory-Monitoring-with-Grafana.md)**
 
 ---
 
-If you want, I can now **rewrite the remaining projects (Splunk, Datadog, Prometheus)** in the same **concise “Description → Key Features → Highlights → View Project” style** so your repo will have a uniform catalog. Do you want me to do that next?
+
