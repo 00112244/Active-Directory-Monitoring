@@ -77,6 +77,60 @@ This repository contains a collection of practical projects focused on monitorin
 
 ---
 
+### 4. Active Directory Monitoring and Alerting with Prometheus
+
+**Description:** Demonstrates how to monitor Active Directory metrics and set up alerts using Prometheus, Windows Exporter, Alertmanager, and Grafana, enabling real-time visibility into AD performance and security events.
+
+**Key Features:**
+* Full setup of Prometheus Windows Exporter on AD DS servers.
+* Collection of CPU, memory, disk, and Event Log metrics.
+* Grafana dashboards for real-time visualization of AD metrics.
+* Prometheus alert rules and Alertmanager notifications for anomalies.
+
+**Highlights:**
+* Monitoring user logon events, failed logons, and account lockouts.
+* Alerts for high CPU usage and other performance issues.
+* Security-focused dashboards displaying key AD events.
+* Real-time notifications for critical AD anomalies.
+
+**[View Project](https://github.com/00112244/Active-Directory-Monitoring/blob/main/Active-Directory-Monitoring-and-Alerting-with-Prometheus.md)** 
+
+---
+
+## Learning Outcomes
+
+1. **Active Directory Monitoring:**
+
+   * Collected and analyzed AD performance and security metrics, including logon activity, account lockouts, privilege escalations, and system health indicators.
+
+2. **Hands-on Tool Experience:**
+
+   * Gained experience configuring and using **Grafana, Prometheus, Splunk, and Datadog** for comprehensive AD monitoring.
+   * Learned to integrate data sources like Universal Forwarder, Windows Exporter, and Datadog Agent for real-time monitoring.
+
+3. **Alerting and Incident Response:**
+
+   * Designed and implemented alerts for performance thresholds and anomalous activities.
+   * Built actionable dashboards to support SOC operations and proactive incident response.
+
+4. **Integration and Automation:**
+
+   * Automated metric collection, dashboard visualization, and alert notifications.
+   * Developed workflows that connect monitoring agents, visualization platforms, and alert managers.
+
+5. **Security and Operational Awareness:**
+
+   * Improved skills in identifying and responding to AD security events.
+   * Enhanced understanding of monitoring best practices for critical enterprise services.
+     
+---   
+
+## Conclusion
+
+This collection of Active Directory monitoring projects provided a comprehensive, hands-on experience in setting up, configuring, and managing monitoring solutions across enterprise environments. Through these exercises, I gained practical skills in **collecting, visualizing, and analyzing AD metrics**, while also understanding the operational and security aspects of Active Directory infrastructure.
+
+By working with tools such as **Grafana, Prometheus, Splunk, and Datadog**, I was able to implement real-time dashboards, alerting mechanisms, and reporting systems that replicate real-world SOC and system administration scenarios. These projects demonstrate the ability to **proactively monitor AD health and security**, ensuring timely detection of anomalies and threats.
+
 
 
 
