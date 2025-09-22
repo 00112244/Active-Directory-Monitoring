@@ -57,5 +57,26 @@ This repository contains a collection of practical projects focused on monitorin
 
 ---
 
+### 3. Real-time Active Directory Metrics with Datadog
+
+**Description:** Demonstrates how to collect, visualize, and monitor Active Directory metrics in real time using Datadog Agent, enabling administrators to track AD health, performance, and security events.
+
+**Key Features:**
+* Full setup of Datadog Agent on AD DS servers.
+* Collection of Windows Event Logs (System, Security, Application) and performance metrics.
+* Dashboards for CPU, memory, logon events, and AD security metrics.
+* Real-time alerts for performance issues and anomalous activity.
+
+**Highlights:**
+* Monitoring user logon events and account activity.
+* Tracking failed logons, account lockouts, and security events.
+* Visual dashboards for AD operational and security insights.
+* Real-time notifications via Datadog monitors for critical AD events.
+
+**[View Project](https://github.com/00112244/Active-Directory-Monitoring/blob/main/Real-time-Active-Directory-Metrics-with-Datadog.md)**
+
+---
+
+
 
 
