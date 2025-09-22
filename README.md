@@ -37,4 +37,25 @@ This repository contains a collection of practical projects focused on monitorin
 
 ---
 
+### 2. Active Directory Logs and Insights with Splunk
+
+**Description:** Demonstrates how to collect, analyze, and visualize Active Directory logs using Splunk Enterprise and Universal Forwarder, enabling real-time monitoring of AD security and operational events.
+
+**Key Features:**
+* Full setup of Splunk Universal Forwarder on AD DS servers.
+* Forwarding and indexing Windows Event Logs (System, Security, Application).
+* Creating dashboards for logon events, failed logons, and account lockouts.
+* Setting up real-time alerts for anomalies and critical AD events.
+
+**Highlights:**
+* Monitoring user logon and account activity.
+* Detection of security events such as failed logons and privilege escalations.
+* Visual dashboards for AD operational and security insights.
+* Scheduled reports for ongoing AD activity analysis.
+
+**[View Project](https://github.com/00112244/Active-Directory-Monitoring/blob/main/Active-Directory-Logs-and-Insights-with-Splunk.md)** 
+
+---
+
+
 
