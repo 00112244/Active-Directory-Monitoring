@@ -17,3 +17,24 @@ This repository contains a collection of practical projects focused on monitorin
 
 ## Project List
 
+### 1. Active Directory Monitoring with Grafana
+
+**Description:** Demonstrates how to collect and visualize Active Directory metrics using Grafana and Prometheus Windows Exporter, enabling real-time monitoring of AD health, performance, and security events.
+
+**Key Features:**
+* Full setup of Prometheus Windows Exporter on Windows Server hosting AD DS.
+* Prometheus configuration for scraping AD metrics.
+* Grafana dashboards for CPU, memory, disk, and AD-specific events.
+* Setting up real-time alerts for performance and security issues.
+
+**Highlights:**
+* Visualizing user logon events, failed logons, and account lockouts.
+* Monitoring AD performance metrics like CPU, memory, and disk usage.
+* Security-focused dashboards showing failed logons, account lockouts, and privilege escalations.
+* Real-time notifications via Grafana alerts for critical AD events.
+
+**[View Project]**
+
+---
+
+If you want, I can now **rewrite the remaining projects (Splunk, Datadog, Prometheus)** in the same **concise “Description → Key Features → Highlights → View Project” style** so your repo will have a uniform catalog. Do you want me to do that next?
